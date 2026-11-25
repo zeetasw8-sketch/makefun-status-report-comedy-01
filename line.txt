@@ -1,1 +1,1 @@
-This week I fixed the bug, broke the fix, fixed the break, and HR now lists my job title as 'professional apologizer to servers'.
+This week the server crashed, I blamed the new intern, and the new intern is a script I wrote yesterday.
